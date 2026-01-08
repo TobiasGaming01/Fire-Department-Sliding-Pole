@@ -1,0 +1,45 @@
+MIT License
+
+Copyright (c) 2024 [TobiasGaming]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+MIT-Lizenz
+
+Copyright (c) 2024 [TobiasGaming]
+
+Hiermit wird jeder Person, die eine Kopie dieser Software und der zugehörigen 
+Dokumentationsdateien (die "Software") erhält, kostenlos die Erlaubnis erteilt, 
+ohne Einschränkung die Rechte zu nutzen, zu kopieren, zu modifizieren, 
+zusammenzuführen, zu veröffentlichen, zu vertreiben, zu lizenzieren und/oder 
+Kopien der Software zu verkaufen, und Personen, denen diese Software 
+zur Verfügung gestellt wird, dies unter den folgenden Bedingungen zu gestatten:
+
+Der obige Urheberrechtsvermerk und dieser Erlaubnisvermerk müssen in allen 
+Kopien oder wesentlichen Teilen der Software enthalten sein.
+
+DIE SOFTWARE WIRD "WIE VORHANDEN" BEREITGESTELLT, OHNE JEGLICHE GEWÄHRLEISTUNG, 
+AUSDRÜCKLICH ODER IMPLIZIERT, EINSCHLIESSLICH, ABER NICHT BESCHRÄNKT AUF DIE 
+GEWÄHRLEISTUNG DER MARKTGÄNGIGKEIT, DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND 
+DER NICHTVERLETZUNG VON RECHTEN DRITTER. IN KEINEM FALL SIND DIE AUTOREN ODER 
+COPYRIGHT-INHABER FÜR JEGLICHE ANSPRÜCHE, SCHÄDEN ODER ANDERE HAFTUNG VERANTWORTLICH, 
+SEI ES IN EINER VERTRAGS-, UNERLAUBTEN HANDLUNG ODER ANDERWEITIG, DIE AUS, AUS ODER 
+IM ZUSAMMENHANG MIT DER SOFTWARE ODER DER NUTZUNG ODER ANDEREN HANDLUNGEN MIT DER 
+SOFTWARE ENTSTEHEN.

@@ -1,18 +1,16 @@
-# Fire-Department-Sliding-Pole
-A realistic and interactive sliding pole system for FiveM fire department roleplay. Features custom animations, optimized performance, and seamless integration with ESX.
 # Feuerwehr Rutschstange System
 
 Ein FiveM Resource für Feuerwehr-Rutschstangen mit ESX Integration.
 
 ## Features
 
--  **Rutschstangen-System**: Feuerwehrleute können durch Rutschstangen von oberen Etagen nach unten gleiten
--  **Multi-Location Support**: Unterstützung für mehrere Feuerwachen mit unterschiedlichen Rutschstangen
--  **Animiertes Gleiten**: Fließende Animationen während des Rutschvorgangs
--  **ox_target Integration**: Moderne Target-System Unterstützung
--  **Konfigurierbar**: Vollständig anpassbar über die Config-Datei
--  **Job-System**: Nur Feuerwehrleute können Rutschstangen nutzen
--  **Debug-Modus**: Marker-Anzeige für Rutschstangen-Standorte
+- 🚒 **Rutschstangen-System**: Feuerwehrleute können durch Rutschstangen von oberen Etagen nach unten gleiten
+- 📍 **Multi-Location Support**: Unterstützung für mehrere Feuerwachen mit unterschiedlichen Rutschstangen
+- 🎬 **Animiertes Gleiten**: Fließende Animationen während des Rutschvorgangs
+- 🎯 **ox_target Integration**: Moderne Target-System Unterstützung
+- 🔧 **Konfigurierbar**: Vollständig anpassbar über die Config-Datei
+- 👨‍🚒 **Job-System**: Nur Feuerwehrleute können Rutschstangen nutzen
+- 🐛 **Debug-Modus**: Marker-Anzeige für Rutschstangen-Standorte
 
 ## Installation
 
