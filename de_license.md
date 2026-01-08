@@ -1,6 +1,6 @@
 MIT-Lizenz
 
-Copyright (c) 2024 [Ihr Name]
+Copyright (c) 2024 [Tobias]
 
 Hiermit wird jeder Person, die eine Kopie dieser Software und der zugehörigen 
 Dokumentationsdateien (die "Software") erhält, kostenlos die Erlaubnis erteilt, 
@@ -20,3 +20,4 @@ COPYRIGHT-INHABER FÜR JEGLICHE ANSPRÜCHE, SCHÄDEN ODER ANDERE HAFTUNG VERANTW
 SEI ES IN EINER VERTRAGS-, UNERLAUBTEN HANDLUNG ODER ANDERWEITIG, DIE AUS, AUS ODER 
 IM ZUSAMMENHANG MIT DER SOFTWARE ODER DER NUTZUNG ODER ANDEREN HANDLUNGEN MIT DER 
 SOFTWARE ENTSTEHEN.
+
